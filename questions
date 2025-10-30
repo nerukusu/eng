@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "lv": 1,
+        "en": "Open the door.",
+        "jp1": "ドアを開けて。",
+        "jp2": ""
+    },
+    {
+        "id": 2,
+        "lv": 1,
+        "en": "Are you hungry?",
+        "jp1": "お腹が空いた?",
+        "jp2": ""
+    },
+    {
+        "id": 3,
+        "lv": 1,
+        "en": "How are you?",
+        "jp1": "お元気ですか?",
+        "jp2": ""
+    },
+    {
+        "id": 4,
+        "lv": 1,
+        "en": "Hi, Peter! Nice to meet you.",
+        "jp1": "こんにちは、ピーター！お会いできて嬉しいです。",
+        "jp2": ""
+    },
+    {
+        "id": 5,
+        "lv": 2,
+        "en": "This is my husband, Colin.",
+        "jp1": "こちらは夫のコリンです。",
+        "jp2": ""
+    },
+    {
+        "id": 6,
+        "lv": 2,
+        "en": "Good morning. What can I do for you?",
+        "jp1": "いらっしゃいませ。何かお手伝いしましょうか?",
+        "jp2": "お店の店員が言ったセリフ"
+    },
+    {
+        "id": 7,
+        "lv": 2,
+        "en": "He's so funny.",
+        "jp1": "彼はとても面白いんだよ。",
+        "jp2": ""
+    }
+]
